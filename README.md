@@ -35,8 +35,10 @@ Rows:
 
 # 🧼 Environment Setup
 To run the script:  
+```bash
 pip install pandas  
-python populate_database.py  
+python populate_database.py
+```
 
 # 🧠 Reflections
 This project gave me a chance to:
